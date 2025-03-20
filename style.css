@@ -1,0 +1,28 @@
+*{
+ font-family:'poppins', sans-serif ;   
+}
+
+body{
+    padding: 30px 275px;
+}
+
+h1{
+    color: blue;
+}
+
+.detail{
+    color: blue;
+}
+
+img{
+    width: 500px;
+}
+
+.quote {
+    font-size: 18px;
+    padding: 20px 20px;
+}
+
+p{
+    text-align: justify;
+}
